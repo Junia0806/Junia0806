@@ -6,9 +6,9 @@
 <a href="https://www.instagram.com/juniavitasari7/" target="_blank">Instagram</a>, 
 <a href="https://www.linkedin.com/in/junia-vitasari-1918a8252/" target="_blank">LinkedIn</a>
 
-Beberapa website yang pernah saya develop diantaranya sebagai berikut
+Some of the websites that I have developed include
 [Website Ilham Collection](http://ilhamcollection.42web.io/home.php),
-[Website Bund's Bakery](https://bundsbakery.000webhostapp.com/), dan
+[Website Bund's Bakery](https://bundsbakery.000webhostapp.com/), and
 [Website SatuHati](https://satuhati.site/).
 
 <a href="https://github.com/Junia0806">
